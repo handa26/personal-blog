@@ -10,24 +10,25 @@ class IndexPage extends React.Component {
     const siteTitle = "Gatsby Starter Personal Website"
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location}>
         <SEO
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
+        {/* <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" /> */}
         <h1>
-          Hey people{" "}
+          Halo, saya Ananda Muhammad Muthaqin{" "}
           <span role="img" aria-label="wave emoji">
             👋
           </span>
         </h1>
-        <p>Welcome to your new Gatsby website. You are on your home page.</p>
+        {/* <p>Welcome to your new Gatsby website. You are on your home page.</p>
         <p>
           This starter comes out of the box with styled components and Gatsby's
           default starter blog running on Netlify CMS.
         </p>
-        <p>Now go build something great!</p>
+        <p>Now go build something great!</p> */}
+
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
         </Link>
