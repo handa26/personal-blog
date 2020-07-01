@@ -35,7 +35,7 @@ function Bio() {
             />
             <p>
               Written by <strong>{author}</strong> who lives in South Borneo,
-              Indonesia also an aspiring front-end developer. {` `}
+              Indonesia, also an aspiring front-end developer. {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow me on Twitter
               </a>

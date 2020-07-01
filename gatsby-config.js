@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Personal Blog`,
+    title: `Ananda Muhammad`,
     author: `Ananda Muhammad Muthaqin`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Website Ananda Muhammad Muthaqin. Menulis seputar dunia programming dan lain-lain`,
+    siteUrl: `https://anandamuhammad.netlify.app/`,
     social: {
       twitter: `_handa26`,
     },
@@ -71,8 +71,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Personal Blog`,
+        short_name: `Ananda Muhammad`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
