@@ -6,10 +6,12 @@ description: Dengan banyaknya kemungkinan apa yang bisa dilakukan internet
   dibandingkan dengan jaman dulu,sumber belajar yang terbatas, sekarang, di abad
   ini segala informasi bisa dicari
 ---
+![](../assets/steallikeanartist.jpeg "Steal Like an Artist")
+
 Beberapa bulan yang lalu dunia perbasketan dikejutkan dengan meninggalnya pemain basket
 Amerika Serikat yang cukup terkenal, Kobe Bryant, kematiannya mengejutkan seluruh penggemarnya di seluruh dunia.
 
-Saya gk tau apa-apa tentang dunia basket, main aja jarang, kecuali diajak teman, menulis blog ini juga kebetulan saya baru selesai baca buku favorit, [*Steal Like an Artist*](https://austinkleon.com/steal/) karangan Austin Kleon,
+Saya gk tau apa-apa tentang dunia basket, main aja jarang, kecuali diajak teman, menulis blog ini juga kebetulan saya baru selesai baca buku favorit, *[Steal Like an Artist](https://austinkleon.com/steal/)* karangan Austin Kleon,
 
 didalam buku tersebut terdapat kutipan dari teman sang penulis tentang Kobe Bryant berlatih, ini kutipannya:
 
