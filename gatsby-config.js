@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Ananda Muhammad`,
+    title: `Personal Blog`,
     author: `Ananda Muhammad Muthaqin`,
     description: `Website Ananda Muhammad Muthaqin. Menulis seputar dunia programming dan lain-lain`,
-    siteUrl: `https://anandamuhammad.netlify.app/`,
+    siteUrl: `https://anandamuhammad.space/`,
     social: {
       twitter: `_handa26`,
     },

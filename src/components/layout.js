@@ -18,6 +18,7 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            fontSize: `5vh`,
           }}
         >
           <Link
@@ -38,6 +39,7 @@ class Layout extends React.Component {
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
+            color: `#6C63FF`,
           }}
         >
           <Link
@@ -66,11 +68,11 @@ class Layout extends React.Component {
           <header>{header}</header>
           <main>{children}</main>
         </div>
-        {/* <Footer>
-          © {new Date().getFullYear()}, Built with
+        <Footer style={{ fontSize: `2vmin` }}>
+          © {new Date().getFullYear()}
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </Footer> */}
+          Ananda Muhammad Muthaqin.
+        </Footer>
       </Wrapper>
     )
   }

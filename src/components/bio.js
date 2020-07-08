@@ -33,12 +33,24 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
+            {/* <p>
               Written by <strong>{author}</strong> who lives in South Borneo,
               Indonesia, also an aspiring front-end developer. {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow me on Twitter
               </a>
+            </p> */}
+            <p>
+              Ditulis oleh{" "}
+              <a
+                style={{ color: `#6C63FF` }}
+                href={`https://twitter.com/${social.twitter}`}
+              >
+                Ananda Muhammad
+              </a>{" "}
+              . <br />
+              Menulis apa saja terkait dunia programming serta hal-hal yang
+              menarik menurut saya hehe 😂.
             </p>
           </Container>
         )
