@@ -11,6 +11,12 @@ description: "*FizzBuzz* merupakan sebuah programming task yang cukup populer
 
 **Tipikalnya FizzBuzz seperti ini:**
 
+> <!--StartFragment-->
+>
+> Write a program that prints the numbers from 1 to 100 and for multiples of '3' print "Fizz" instead of the number, for the multiples of '5' print "Buzz" and multiples of '3' also '5' print "FizzBuzz".
+>
+> <!--EndFragment-->
+
 ```
 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, 
 Fizz Buzz, 16, 17, Fizz, 19, Buzz, Fizz, 22, 23, Fizz, Buzz, 26, 
